@@ -21,3 +21,5 @@ jupyter notebook
 [DecisionTree.ipynb](https://github.com/KimGyeongrok/ml/blob/main/DecisionTree.ipynb) : 의사결정나무 예제
 
 앙상블 기법 중 boosting 관련 예제
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
