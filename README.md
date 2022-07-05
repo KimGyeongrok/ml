@@ -23,3 +23,5 @@ jupyter notebook
 앙상블 기법 중 boosting 관련 예제
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![This is an image](https://user-images.githubusercontent.com/108713437/177272716-ac3ca762-ca06-4b01-87ec-1a9012619ab3.png)
